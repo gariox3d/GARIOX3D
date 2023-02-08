@@ -1,19 +1,16 @@
-<h1 align="center">Hi 👋, I'm Gariox</h1>
+<h1 align="center">Hi 👋, I'm Deepak</h1>
 <h3 align="center">I'm not a Programmer.</h3>
 
-  <img src="https://k.top4top.io/p_2154s09z11.jpg" /></>
-  <img src="https://telegra.ph/file/3e462bbee69a9de29bd4f.jpg" /></>
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=gariox3d&label=Profile%20views&color=0e75b6&style=flat" alt="gariox3d" /> </p>
-
+  
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gariox3d" alt="gariox3d" /></a> </p>
 
-- 🔭 I’m currently working on **Error 404 (WP BOT)**
+- 🔭 I’m currently working on **WP BOT**
 
 - 🌱 I’m currently learning **JavaScript, HTML, CSS**
 
 - 💬 Ask me about **WP Bot**
 
-- 📫 How to reach me **garioxyt@gmail.com**
+- 📫 How to reach me **deepak_sharma4007**
 
 - ⚡ Fun fact **I have not failed. I’ve just found 10,000 ways that won’t work.**
 
@@ -21,8 +18,8 @@
 <p align="left">
 <a href="https://dev.to/gariox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="gariox" height="30" width="40" /></a>
 <a href="https://fb.com/tausif khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tausif khan" height="30" width="40" /></a>
-<a href="https://instagram.com/gariox_the_techie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gariox_the_techie" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/gariox 3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gariox 3d" height="30" width="40" /></a>
+<a href="https://instagram.com/deepak_sharma4007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gariox_the_techie" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/deepak-69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gariox 3d" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
